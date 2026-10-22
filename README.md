@@ -18,7 +18,7 @@ A lightweight, native macOS menu bar app that keeps a searchable history of ever
 
 ## Screenshot
 
-_(add a screenshot here)_
+![Clipboard History screenshot](screenshots/clipboard-history.png)
 
 ## Installation
 
